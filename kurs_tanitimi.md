@@ -117,5 +117,5 @@ Bireysel katılımlarda kurs ücretine **KDV** dahildir.
 
 
 ## Eğitim Programına Kayıt
-&#128279;__[Katılım için önce ön kayıt yaptırmalısınız](https://us02web.zoom.us/meeting/register/tZMsd-GvqjItE92aJ7uOIkKOX_59JwV0JPQx)__. 
+&#128279;__[Katılım için önce ön kayıt yaptırmalısınız](https://us02web.zoom.us/meeting/register/tZckcequrDkvE9NrLD57tsArycSjR1R3-rSN)__. 
 Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
