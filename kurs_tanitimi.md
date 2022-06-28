@@ -42,6 +42,7 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 [Altınay Teknoloji](http://www.altinay.com/savunma-teknolojileri/),
 [Ankasis](http://www.ankasis.com/),
 [Arçelik](https://www.arcelik.com.tr/), 
+[Armelsan](https://www.armelsan.com/),
 [Aselsan](https://www.aselsan.com.tr/tr-tr/Sayfalar/default.aspx), 
 [Asis Elektronik](https://asiselektronik.com.tr/),
 [Audio Elektronik](https://www.audio.com.tr/), 
