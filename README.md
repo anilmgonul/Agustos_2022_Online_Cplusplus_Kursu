@@ -3,7 +3,7 @@
 🎯 Bu kurs katılımcıların öncelikle __C++__ programlama dilini çok iyi öğrenmelerini ve yazılım üretiminde profesyonel düzeyde bu dili kullanma becerisi edinmelerini hedeflemektedir.<br><br>
 🏫 Bu kurs _Plepa Eğitim Hizmetleri_ tarafından düzenlenmektedir.<br><br>
 👨 Kurs eğitmeni **&#128279;[Necati Ergin](https://www.linkedin.com/in/necati-ergin-045768176/)**'dir.<br><br>
-📅 Kurs __28 Mart 2022 Pazartesi__ günü başlayacaktır. <br><br>
+📅 Kurs __20 Ağustos 2022 Cumartesi__ günü başlayacaktır. <br><br>
 ⏰ Dersler __Cumartesi ve Pazar__ günleri __09.00 - 13.00__ saatleri arasında yapılacaktır.<br><br>
 ⌛ Kursun toplam süresi __180__ saattir. <br><br>
 💰️ Programın toplam ücreti **7.500** &#8378;'dir. Öğrenci olanlar için kurs ücreti **6.500** &#8378;'dir. Kurumsal katılımlarda kurs ücretine **KDV** dahil değildir. Bireysel katılımlar için kurs ücretine **KDV** dahildir.<br><br>
