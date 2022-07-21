@@ -56,6 +56,7 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 [Cardtek](https://www.paycore.com/), 
 [Crytek](https://www.crytek.com/), 
 [E-data Teknoloji](https://e-data.com.tr/),
+[EEC Electronics](https://eecelectronics.com.tr/),
 [Entes Elektronik](http://entes.com/tr/), 
 [Erdemir](https://www.erdemir.com.tr/), 
 [Garanti BBVA](https://www.garantibbva.com.tr/tr), 
