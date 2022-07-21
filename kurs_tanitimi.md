@@ -78,6 +78,7 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 [Netaş](http://www.netas.com.tr/ana-sayfa/), 
 [Nettsi Teknoloji](https://www.nettsi.com/),
 [Otokar](https://www.otokar.com.tr/),
+[Pacemtech](https://www.pacemtech.com/),
 [Pavotek](https://pavotek.com.tr/), 
 [Profilo](https://www.profilo.com/), 
 [Roketsan](http://www.roketsan.com.tr/), 
